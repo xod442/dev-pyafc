@@ -8,7 +8,7 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="pyafc",
+    name="pyafc-0001",
     version="0.1.0",
     description="Aruba Fabric Composer Python Modules",
     long_description=long_description,
